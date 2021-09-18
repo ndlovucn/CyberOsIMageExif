@@ -1,6 +1,6 @@
-# CameraXbasic
+# CyberOs Image location exif demo
 
-CameraXbasic aims to demonstrate how to use CameraX APIs written in Kotlin.
+ CyberOs Image location exif demo aims to demonstrate how to use android api to add location metadata to image Exif attributes 
 
 ## Build
 
